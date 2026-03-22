@@ -30,7 +30,7 @@ Dataset ที่ใช้ประกอบด้วยข้อมูลเก
 
 📌 แหล่งข้อมูล:
 
----[house price.csv](https://github.com/user-attachments/files/26170194/house.price.csv)
+[house_price.csv](https://github.com/user-attachments/files/26170194/house.price.csv)
 
 
 ## 🔍 Exploratory Data Analysis (EDA)
